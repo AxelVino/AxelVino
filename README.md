@@ -18,7 +18,7 @@ My approach is pragmatic and results-oriented, while strongly valuing teamwork, 
 
 - 🌱 I’m currently learning **AgentIA and Protocol MCP**
 
-- ☁️ I've keen interest in **cloud computing and IA technologies**.
+- ☁️ I've keen interest in **cloud computing and IA technologies**
 
 - 📫 Feel free to reach me out **UnajAxel@gmail.com**
 
@@ -92,7 +92,7 @@ My approach is pragmatic and results-oriented, while strongly valuing teamwork, 
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">💬 social networks</h2></summary>
+    <summary><h2 style="display: inline-block">💬 Social networks</h2></summary>
   </ul>
 </div>
 
